@@ -17,3 +17,5 @@
 - **VLSI & Digital System Design**  
 - **Intelligent Systems, Automation & Applied Data Science**  
 - **Quantum Computing**
+- **RF and circuit designing**
+
