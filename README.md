@@ -108,19 +108,6 @@ Cloud cost optimization and anomaly detection platform built around cloud-native
 ---
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrunmayee300&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunmayee300&layout=compact&theme=tokyonight" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrunmayee300&theme=tokyonight"/>
-</p>
-
----
-
 ## 🤝 Open To
 
 - AI/ML Engineering Internships
