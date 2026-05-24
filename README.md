@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Mrunmayee
 
-💻 A Developer building scalable, real-world systems  
+💻 AI Engineer & Full-Stack Developer building scalable, real-world systems  
 
 💡 I enjoy building AI systems where models, infrastructure, and user experience work together seamlessly. From RAG pipelines and multi-agent orchestration to scalable backend architectures and production-ready interfaces, I like transforming complex ideas into fast, reliable, real-world products.
 ---
